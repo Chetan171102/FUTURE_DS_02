@@ -8,7 +8,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <ul>
 <li>🔍 Analyze campaign performance across various digital channels</li>
 <li>📊 Visualize key metrics like CTR, CPC, ROI, Impressions, and Conversions</li>
-<il>💡 Recommend optimizations to maximize ROI and eliminate low-performing ad spends</il>
+<li>💡 Recommend optimizations to maximize ROI and eliminate low-performing ad spends</il>
 </ul>
 
 <h2>💼 Key Features of the Dashboard</h2>
