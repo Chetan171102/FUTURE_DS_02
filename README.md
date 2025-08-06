@@ -18,7 +18,6 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>Post Type & Platform Insights: Analyzes which post formats (Story, Video, Image, Carousel) and platforms (Facebook vs Instagram) perform best in terms of reach and clicks.</li>
 <li>Engagement Trends: Highlights monthly engagement trends and campaign-level interaction to support content and timing strategy.</li>
 </ul>
-<br>
 <h3>📄 Page 2: ROI & CTR Analysis</h3>
 <ul>
 <li>ROI Breakdown by Campaign & Platform: Identifies which campaigns and platforms (Facebook/Instagram) delivered the highest ROI, helping optimize future spending.</li>
