@@ -40,7 +40,6 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 </ul>
 <hr>
 <h2>LinkedIn Post: <a href="">Social Media Ads Campaign</a></h2>
-<a href="">Social Media Ads Campaign</a>
 <hr>
 <h2>🤝 Special Thanks</h2>
 <h3>Grateful to Future Interns for the incredible opportunity to work on this insightful, hands-on project. Your guidance and mentorship throughout the internship have been invaluable in shaping my learning experience.</h3>
