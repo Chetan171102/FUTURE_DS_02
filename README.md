@@ -1,4 +1,5 @@
 # FUTURE_DS_02
+<h2>📊 FUTURE_DS_02 – Social Media Campaign Performance Tracker</h2>
 <h3><b>Power BI Project | Future Interns Data Science & Analytics Internship</b></h3>
 
 This project presents a 2-page interactive Power BI dashboard developed during my internship at Future Interns. Using real-world social media ad campaign data, the dashboard provides in-depth performance tracking across platforms to support data-driven marketing decisions.<br>
@@ -25,9 +26,10 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>Revenue-Driven ROI Insights: Shows how revenue levels influence average ROI, with high-resolution breakdowns by spend and performance.</li>
 </ul>
 <hr>
-<h2>Dashboard<h2><br>
+<h2>Dashboard<h2>
 <h3>Page 1: Campaign Overview</h3>
 <img width="1456" height="815" alt="page 1 sac" src="https://github.com/user-attachments/assets/81617ce0-1b0a-4ac8-ae17-0f6d6f9eb961" />
+<hr>
 <h3>Page 2: ROI & CTR Analysis</h3>
 <img width="1453" height="819" alt="page 2 sac" src="https://github.com/user-attachments/assets/98f589c9-2ab7-46af-b23e-d07535abe13d" />
 <hr>
