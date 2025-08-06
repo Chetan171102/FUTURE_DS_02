@@ -26,7 +26,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>Revenue-Driven ROI Insights: Shows how revenue levels influence average ROI, with high-resolution breakdowns by spend and performance.</li>
 </ul>
 <hr>
-<h2>Dashboard</h2>
+<h2>📷Dashboard</h2>
 <h3>Page 1: Campaign Overview</h3>
 <img width="1456" height="815" alt="page 1 sac" src="https://github.com/user-attachments/assets/81617ce0-1b0a-4ac8-ae17-0f6d6f9eb961" />
 <hr>
@@ -39,7 +39,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>social media ads campaign - Power BI Dashboard</li>
 </ul>
 <hr>
-<h2>LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-marketingdashboard-activity-7358793604942712833-jKcN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Social Media Ads Campaign</a></h2>
+<h2>🔗LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-marketingdashboard-activity-7358793604942712833-jKcN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Social Media Ads Campaign</a></h2>
 <hr>
 <h2>🤝 Special Thanks</h2>
 <h3>Grateful to Future Interns for the incredible opportunity to work on this insightful, hands-on project. Your guidance and mentorship throughout the internship have been invaluable in shaping my learning experience.</h3>
