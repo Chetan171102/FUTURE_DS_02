@@ -33,7 +33,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <h3>Page 2: ROI & CTR Analysis</h3>
 <img width="1453" height="819" alt="page 2 sac" src="https://github.com/user-attachments/assets/98f589c9-2ab7-46af-b23e-d07535abe13d" />
 <hr>
-<h2>Files Included</h2>
+<h2>📂Files Included</h2>
 <ul>
 <li>Social Media Campaign Tracker- CSV files Dataset</li>
 <li>social media ads campaign - Power BI Dashboard</li>
