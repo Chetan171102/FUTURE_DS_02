@@ -26,7 +26,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>Revenue-Driven ROI Insights: Shows how revenue levels influence average ROI, with high-resolution breakdowns by spend and performance.</li>
 </ul>
 <hr>
-<h2>Dashboard<h2>
+<h2>Dashboard</h2>
 <h3>Page 1: Campaign Overview</h3>
 <img width="1456" height="815" alt="page 1 sac" src="https://github.com/user-attachments/assets/81617ce0-1b0a-4ac8-ae17-0f6d6f9eb961" />
 <hr>
