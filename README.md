@@ -39,7 +39,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>social media ads campaign - Power BI Dashboard</li>
 </ul>
 <hr>
-<h2>LinkedIn Post</h2>
+<h2>LinkedIn Post: <a href="">Social Media Ads Campaign</a></h2>
 <a href="">Social Media Ads Campaign</a>
 <hr>
 <h2>🤝 Special Thanks</h2>
