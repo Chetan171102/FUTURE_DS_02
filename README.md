@@ -39,7 +39,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>social media ads campaign - Power BI Dashboard</li>
 </ul>
 <hr>
-<h2>LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-ecommercenanalytics-activity-7358414781273296898-B7wt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Social Media Ads Campaign</a></h2>
+<h2>LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-marketingdashboard-activity-7358793604942712833-jKcN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Social Media Ads Campaign</a></h2>
 <hr>
 <h2>🤝 Special Thanks</h2>
 <h3>Grateful to Future Interns for the incredible opportunity to work on this insightful, hands-on project. Your guidance and mentorship throughout the internship have been invaluable in shaping my learning experience.</h3>
