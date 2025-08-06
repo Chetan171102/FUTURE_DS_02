@@ -1,5 +1,5 @@
 # FUTURE_DS_02
-<h4><b>Power BI Project | Future Interns Data Science & Analytics Internship<br></b></h4>
+<h3><b>Power BI Project | Future Interns Data Science & Analytics Internship</b></h3>
 
 This project presents a 2-page interactive Power BI dashboard developed during my internship at Future Interns. Using real-world social media ad campaign data from Kaggle, the dashboard provides in-depth performance tracking across platforms to support data-driven marketing decisions.<br>
 <hr>
@@ -19,7 +19,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>Engagement Trends: Highlights monthly engagement trends and campaign-level interaction to support content and timing strategy.</li>
 </ul>
 <br>
-<h3>📄 Page 2: ROI & CTR Analysis</h3><br>
+<h3>📄 Page 2: ROI & CTR Analysis</h3>
 <ul>
 <li>ROI Breakdown by Campaign & Platform: Identifies which campaigns and platforms (Facebook/Instagram) delivered the highest ROI, helping optimize future spending.</li>
 <il>CTR vs ROI Correlation: Explores how Click-Through Rates impact Return on Investment using scatter and line visuals.</il>
