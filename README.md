@@ -1,7 +1,7 @@
 # FUTURE_DS_02
 <h3><b>Power BI Project | Future Interns Data Science & Analytics Internship</b></h3>
 
-This project presents a 2-page interactive Power BI dashboard developed during my internship at Future Interns. Using real-world social media ad campaign data from Kaggle, the dashboard provides in-depth performance tracking across platforms to support data-driven marketing decisions.<br>
+This project presents a 2-page interactive Power BI dashboard developed during my internship at Future Interns. Using real-world social media ad campaign data, the dashboard provides in-depth performance tracking across platforms to support data-driven marketing decisions.<br>
 <hr>
 
 <h2>✅ Project Objectives<br></h2>
