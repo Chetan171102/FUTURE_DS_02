@@ -4,12 +4,11 @@
 This project presents a 2-page interactive Power BI dashboard developed during my internship at Future Interns. Using real-world social media ad campaign data, the dashboard provides in-depth performance tracking across platforms to support data-driven marketing decisions.<br>
 <hr>
 
-<h2>✅ Project Objectives<br></h2>
-<ul>
-<li>🔍 Analyze campaign performance across various digital channels</li>
-<li>📊 Visualize key metrics like CTR, CPC, ROI, Impressions, and Conversions</li>
-<li>💡 Recommend optimizations to maximize ROI and eliminate low-performing ad spends</li></ul>
-<hr>
+<h2>✅ Project Objectives<br></h2><br>
+🔍 Analyze campaign performance across various digital channels<br>
+📊 Visualize key metrics like CTR, CPC, ROI, Impressions, and Conversions<br>
+💡 Recommend optimizations to maximize ROI and eliminate low-performing ad spends<br>
+
 
 <h2>💼 Key Features of the Dashboard</h2>
 <h3>📄 Page 1: Campaign Overview</h3>
