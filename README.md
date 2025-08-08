@@ -36,7 +36,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <h2>📂Files Included</h2>
 <ul>
 <li><a href="https://github.com/Chetan171102/FUTURE_DS_02/blob/e5df8c8a5fefaefe8e17c7bdfebadf29b03f9fdb/Social%20Media%20Campaign%20Tracker.csv">Social Media Campaign Tracker</a>- CSV files Dataset</li>
-<li>social media ads campaign - Power BI Dashboard</li>
+<li><a href="https://github.com/Chetan171102/FUTURE_DS_02/blob/698d1644a4bc0dd557b760ee078c3836924235ca/social%20media%20ads%20campaign.pbix">social media ads campaign</a> - Power BI Dashboard</li>
 </ul>
 <hr>
 <h2>🔗LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-marketingdashboard-activity-7358793604942712833-jKcN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Social Media Ads Campaign</a></h2>
